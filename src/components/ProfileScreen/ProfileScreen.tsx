@@ -8,6 +8,7 @@ import {
   StyledButton,
 } from "./ProfileScreen.styled";
 import NavBar from "../NavBar/NavBar";
+import PlansScreen from "../PlansScreen/PlansScreen";
 import { useSelector } from "react-redux";
 import { selectUser } from "../../features/userSlice";
 import { auth } from "../../firebase";
@@ -28,6 +29,7 @@ const ProfileScreen = () => {
             <h2>{user?.email}</h2>
             <StyledPlans>
               <h3>Plans</h3>
+              <PlansScreen />
               <StyledButton onClick={() => auth.signOut()}>
                 Sign Out
               </StyledButton>
