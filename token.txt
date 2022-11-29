@@ -1,0 +1,4 @@
+pk.eyJ1Ijoiem9zbG9zIiwiYSI6ImNsYWloYmNwdzAyc2MzbnM5ODQzYXZtZDIifQ.GPUIfG49QBD4A7trEMH0bQ token
+
+mapbox://styles/zoslos/claihqug7002t14nzsdycj16f style url
+pk.eyJ1Ijoiem9zbG9zIiwiYSI6ImNsYWloYmNwdzAyc2MzbnM5ODQzYXZtZDIifQ.GPUIfG49QBD4A7trEMH0bQ access token
